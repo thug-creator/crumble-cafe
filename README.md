@@ -17,3 +17,12 @@
 
 ## Демонстрация
 *(Сюда на защите можно вставить скриншоты, если препод требует)*
+
+## Главная страница
+<img width="941" height="331" alt="image" src="https://github.com/user-attachments/assets/d105d69b-9914-497e-820c-17a7291911a0" />
+
+## Меню
+<img width="945" height="951" alt="image" src="https://github.com/user-attachments/assets/605ed116-c819-4444-97a5-2b490b4ab953" />
+
+## Контакты
+<img width="943" height="548" alt="image" src="https://github.com/user-attachments/assets/95cee916-0e2f-43d7-a5c6-d6635356b183" />
